@@ -1,16 +1,70 @@
-## Hi there 👋
+# 👋 Hi, I'm Tushar Bangadkar
 
-<!--
-**tusharbangadkar/tusharbangadkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech in Computer Science and Engineering** | K.D.K. College of Engineering, Nagpur  
+💡 Passionate about **Data Analysis**, **Machine Learning**, and **Software Development**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I’m a tech enthusiast with hands-on experience in **Python**, **MySQL**, and **Data Visualization**.  
+I enjoy solving real-world problems through data-driven insights and continuously learning new tools and technologies.
+
+---
+
+## 🧠 Technical Skills
+
+- **Languages:** Python, SQL, Java, HTML, CSS  
+- **Libraries & Tools:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, MySQL, Jupyter Notebook, GitHub  
+- **Concepts:** Data Structures & Algorithms, OOP, DBMS, Computer Networks  
+- **Soft Skills:** Communication, Presentation, Leadership, Team Collaboration  
+
+---
+
+## 💼 Projects
+
+### 🧩 [Laptop Price Prediction using Machine Learning](#)
+- Built a regression model to predict laptop prices using e-commerce data  
+- Performed preprocessing, visualization, and model evaluation with Pandas, NumPy, and Matplotlib  
+
+### 💰 [Wealthy Wise – Mutual Fund Analyzer](https://github.com/tusharbangadkar/wealthy_wise_-mutualfund_analyser)
+- Developed a mutual fund recommendation system based on user inputs  
+- Built interactive dashboards and fund trend visualizations  
+
+### 🛒 Shopify Sales Analysis using Power BI
+- Created an interactive Power BI dashboard to analyze sales by state, city, and product  
+- Identified top-performing products and peak sales trends  
+
+---
+
+## 🧩 Internship
+
+**Data Analyst Intern – Cluster Computing Pvt. Ltd.** (Mar 2023 – May 2023)  
+- Analyzed 1,000+ sales transactions using Python libraries  
+- Generated visual insights to support business decision-making  
+
+---
+
+## 🏆 Achievements & Leadership
+
+- **Event Head**, National Service Scheme (NSS), K.D.K College (2023–2025)  
+  Led a 50-member team to organize impactful social initiatives  
+- **Secretary**, Annual Event “PICSEL”  
+  Managed 300+ volunteers and coordinated 20+ technical & non-technical events  
+
+---
+
+## 📈 Coding Profiles
+
+- 🧮 [LeetCode](https://leetcode.com/u/9960324708/) — Solved 100+ DSA problems  
+
+---
+
+## 📫 Connect with Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/tushar-bangadkar-aa137822a)  
+- 📧 **tusharbangadkar2003@gmail.com**
+
+---
+
+⭐ *“Code. Learn. Analyze. Repeat.”*
