@@ -1,22 +1,22 @@
 # 👋 Hi, I'm Tushar Bangadkar
 
 🎓 **B.Tech in Computer Science and Engineering** | K.D.K. College of Engineering, Nagpur  
-💡 Passionate about **Data Analysis**, **Machine Learning**, and **Software Development**
+💡 Passionate about **Full stack Java Developer** and **Software Devlopment**
 
 ---
 
 ## 🚀 About Me
 
-I’m a tech enthusiast with hands-on experience in **Python**, **MySQL**, and **Data Visualization**.  
+I’m a tech enthusiast with hands-on experience in **Python**, **MySQL**, and **Full stack Java Development** at **Revature**.  
 I enjoy solving real-world problems through data-driven insights and continuously learning new tools and technologies.
 
 ---
 
 ## 🧠 Technical Skills
 
-- **Languages:** Python, SQL, Java, HTML, CSS  
+- **Languages:** Python, SQL, Java, HTML, CSS, Javascript 
 - **Libraries & Tools:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, MySQL, Jupyter Notebook, GitHub  
-- **Concepts:** Data Structures & Algorithms, OOP, DBMS, Computer Networks  
+- **Concepts:** Data Structures & Algorithms, OOP, DBMS, Computer Networks ,JDBC. 
 - **Soft Skills:** Communication, Presentation, Leadership, Team Collaboration  
 
 ---
@@ -38,6 +38,11 @@ I enjoy solving real-world problems through data-driven insights and continuousl
 ---
 
 ## 🧩 Internship
+
+**Java Full Stack Developer Trainee | Revature | September 2025 – Present**
+ -Completed Full Stack Java training with strong skills in Core Java, Collections, Spring, and Spring Boot.
+ -Solved 100+ Java problems and gained hands-on experience with SQL, JDBC, and database-driven application development.
+ -Applied SDLC phases in building and testing end-to-end backend modules using REST APIs, JDBC connectivity, and Spring B
 
 **Data Analyst Intern – Cluster Computing Pvt. Ltd.** (Mar 2023 – May 2023)  
 - Analyzed 1,000+ sales transactions using Python libraries  
