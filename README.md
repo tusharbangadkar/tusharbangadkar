@@ -39,10 +39,10 @@ I enjoy solving real-world problems through data-driven insights and continuousl
 
 ## 🧩 Internship
 
-**Java Full Stack Developer Trainee | Revature | September 2025 – Present**
- -Completed Full Stack Java training with strong skills in Core Java, Collections, Spring, and Spring Boot.
- -Solved 100+ Java problems and gained hands-on experience with SQL, JDBC, and database-driven application development.
- -Applied SDLC phases in building and testing end-to-end backend modules using REST APIs, JDBC connectivity, and Spring B
+**Java Full Stack Developer Trainee | Revature** ( September 2025 – Present).                                           
+ - Completed Full Stack Java training with strong skills in Core Java, Collections, Spring, and Spring Boot.              
+ - Solved 100+ Java problems and gained hands-on experience with SQL, JDBC, and database-driven application development.  
+ - Applied SDLC phases in building and testing end-to-end backend modules using REST APIs, JDBC connectivity, and Spring     Boot
 
 **Data Analyst Intern – Cluster Computing Pvt. Ltd.** (Mar 2023 – May 2023)  
 - Analyzed 1,000+ sales transactions using Python libraries  
@@ -67,7 +67,7 @@ I enjoy solving real-world problems through data-driven insights and continuousl
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/tushar-bangadkar-aa137822a)  
+- 💼 [LinkedIq**n](https://linkedin.com/in/tushar-bangadkar-aa137822a)  
 - 📧 **tusharbangadkar2003@gmail.com**
 
 ---
